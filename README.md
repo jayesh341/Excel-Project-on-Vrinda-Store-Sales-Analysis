@@ -3,5 +3,6 @@
 Store Sales Analysis Using Graphical Representation 
 
 
-![image](https://github.com/user-attachments/assets/1fb2b122-4063-43b9-99dc-1ba6b7d8f433)
+![image](https://github.com/user-attachments/assets/9264736b-9374-4d18-9a7d-bc0b8bba583d)
+
 
